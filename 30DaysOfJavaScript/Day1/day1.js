@@ -51,10 +51,14 @@ let n = null;
 
 // 5)
 
-console.log(typeof str);
+console.log(typeof str); 
 console.log(typeof bool);
 console.log(typeof undef);
 console.log(typeof n);
+
+/**
+ * result: string, boolean, undefined, object?
+ */
 
 // 6)
 
@@ -88,4 +92,4 @@ let myAge = 25, yourAge = 30;
 console.log("I am " + myAge + " years old");
 console.log("You are " + yourAge + " years old");
 
-
+// It shows as expected

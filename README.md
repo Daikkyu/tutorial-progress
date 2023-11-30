@@ -6,4 +6,5 @@ So this repository will be documenting my progress in programming language tutor
 
 Feel free to see, I guess.
 
- - [x] Day 1 of 30DaysOdfJavaScript
+ - [x] Day 1 of 30DaysOfJavaScript
+ - [ ] Day 2 of 30DaysOfJavaScript
